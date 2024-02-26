@@ -1,0 +1,56 @@
+{
+	"title": "Qual personagem do anime Jujutsu Kaisen você seria?",
+	"questions": [
+		{
+			"id": 1,
+			"question": "Qual destas habilidades você prefere?",
+			"options": [
+				{ "id": 1, "name": "Combate corpo a corpo", "alias": "A" },
+				{ "id": 2, "name": "Magia de feitiços", "alias": "B" },
+				{ "id": 3, "name": "Habilidades de cura", "alias": "C" }
+			]
+		},
+		{
+			"id": 2,
+			"question": "Como você prefere lidar com os inimigos?",
+			"options": [
+				{ "id": 1, "name": "Atacar de frente", "alias": "A" },
+				{ "id": 2, "name": "Usar estratégia", "alias": "B" },
+				{ "id": 3, "name": "Evitar o confronto", "alias": "C" }
+			]
+		},
+		{
+			"id": 3,
+			"question": "Qual é a sua motivação para lutar?",
+			"options": [
+				{ "id": 1, "name": "Proteger os amigos", "alias": "A" },
+				{ "id": 2, "name": "Buscar vingança", "alias": "B" },
+				{ "id": 3, "name": "Alcançar a paz", "alias": "C" }
+			]
+		},
+		{
+			"id": 4,
+			"question": "Qual é a sua personalidade em uma situação de crise?",
+			"options": [
+				{ "id": 1, "name": "Determinado e corajoso", "alias": "A" },
+				{ "id": 2, "name": "Calmo e estratégico", "alias": "B" },
+				{ "id": 3, "name": "Cauteloso e protetor", "alias": "C" }
+			]
+		},
+		{
+			"id": 5,
+			"question": "Qual é o seu objetivo final?",
+			"options": [
+				{ "id": 1, "name": "Se tornar mais forte", "alias": "A" },
+				{ "id": 2, "name": "Proteger o mundo", "alias": "B" },
+				{ "id": 3, "name": "Encontrar a verdadeira paz", "alias": "C" }
+			]
+		}
+	],
+	"results": {
+		"A": "Você seria como Yuji Itadori, um guerreiro corajoso e determinado!",
+		"B": "Você seria como Megumi Fushiguro, um estrategista habilidoso e leal!",
+		"C": "Você seria como Nobara Kugisaki, protetora e determinada a alcançar a paz!"
+	}
+}
+
